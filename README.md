@@ -7,10 +7,6 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 This repository contains the code for my personal portfolio website. It showcases my projects, skills, and experience in web development and design.
